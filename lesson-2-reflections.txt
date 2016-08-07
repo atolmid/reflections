@@ -19,6 +19,8 @@ When I want to try new features, or when I want to label a version that has sign
 
 How do the diagrams help you visualize the branch structure?
 
+You understand better what is reachable from where, and relationships between commits/branches in general.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
