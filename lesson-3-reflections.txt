@@ -33,4 +33,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Because then the changes can be reviewed and approved by others before becoming a part of the master branch
