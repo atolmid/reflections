@@ -29,3 +29,5 @@ Changes in both branches are included in the merged one (the one that is checked
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
+With Git's automatic merging you save a lot of time, however you don't always have the result you want to have.
+With manual merging you have complete control of what will be in the merged version, however you require a lot more effort and time.
