@@ -23,6 +23,9 @@ You understand better what is reachable from where, and relationships between co
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Changes in both branches are included in the merged one (the one that is checked out)
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
