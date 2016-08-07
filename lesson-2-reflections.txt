@@ -10,6 +10,8 @@ The staging area is an intermediate level, where you gather and organise the cha
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can organize the files changed that the logical change comprises of. Each time, I can add to the staging area only the files that make up one logical change, and then commit these.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
